@@ -1,0 +1,4 @@
+(executable
+ (public_name StudyScrape)
+ (name main)
+ (libraries StudyScrape cohttp cohttp-lwt-unix lambdasoup))
